@@ -4,7 +4,7 @@
  * Plugin Name: vBSocial Pages
  * Plugin URI: http://vbsocial.com/
  * Description: Allow your users to create business, personal, recreational pages on your site completely from the user interface.
- * Version: 1.0
+ * Version: 1.1
  * Author: vBSocial.com
  * Author URI: http://vbsocial.com/
  
