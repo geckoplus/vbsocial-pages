@@ -6,7 +6,7 @@ Requires at least: 3.0
 Tested up to: 3.8
 Stable tag: 1.0
 
-Allow your users to create social pages for businesses, games, music, and more on your Wordpress Site. 
+Similar to the functionality of Facebook Pages, this plugin allows your users to create social pages for businesses, games, music, and more on your Wordpress Site. 
 
 == Description ==
 Similar to Facebook Pages, or Google Pages, vBSocial Pages lets your users build your site bigger.
